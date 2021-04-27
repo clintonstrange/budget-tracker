@@ -23,6 +23,7 @@ This application was refactored to be a PWA by adding a service worker, web mani
 
 ## Technology Used 
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)      
   ![Mongoose.js](https://img.shields.io/badge/Mongoose.js-880000?style=for-the-badge&logoColor=white)   
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
